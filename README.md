@@ -11,10 +11,7 @@ Fakultas Ilmu Komputer, Universitas Indonesia
 ## *Proyek Akhir KASDD - Daegu Apartement*
 </center>
 
-
-<br/>
-
-## Informasi Pengerjaan
+### Informasi Pengerjaan
 **Anggota Kelompok (Nama - NPM - Kelas)**
 1. Charles Pramudana - 2006596491 - KASDD A
 2. Cynthia Philander - 2006597292 - KASDD A

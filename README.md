@@ -11,7 +11,7 @@ Fakultas Ilmu Komputer, Universitas Indonesia
 ## *Proyek Akhir KASDD - Daegu Apartement*
 </center>
 
----
+
 <br/>
 
 ## Informasi Pengerjaan
@@ -21,7 +21,6 @@ Fakultas Ilmu Komputer, Universitas Indonesia
 3. Jeremy Christianto - 2006462885 - KASDD A
 4. Kelvin Erlangga - 2006596964 - KASDD A
 
----
 <br/>
 
 **Referensi**

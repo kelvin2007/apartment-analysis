@@ -10,6 +10,7 @@ Fakultas Ilmu Komputer, Universitas Indonesia
 
 ## *Proyek Akhir KASDD - Daegu Apartement*
 </center>
+
 ---
 <br/>
 
